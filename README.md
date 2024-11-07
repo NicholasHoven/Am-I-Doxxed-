@@ -104,27 +104,3 @@ To install the packages required for this application, you can use pip, a packag
 
 By following these steps, you'll have successfully installed all the required packages for the application using pip.
 
-## Examples
-Illustrative examples showcasing the usage of the application.
-
-# Development
-
-
-## Program Flow
-Description of the flow of the application's functionality.
-
-## Roadmap
-
-
-## To-Do
-- [ ] Tripp: Integrate additional OSINT gathering tools into portfolio
-  - [ ] Interactive Visualization Tool
-  - [ ] Phone number analysis
-  - [ ] Look for new OSINT gathering tools 
-- [ ] Add report generation functionality with heuristics
-  - [ ] Avery: Reliable mail client written in Python. Be able to send a random pdf to a specified email address.
-  - [ ] Nick & Tripp: Report Generation & Artifacts/Metadata, create PDF from updated OSINT info
-- [ ] Alex: Identification process solution
-  - [ ] Possibly add a faux identification and explain in presentation that we won't pay for the API
-- [ ] Grant: Add instructions for how to run program after first install
-- [ ] Grant: Alter our html for PDF display
